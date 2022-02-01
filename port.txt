@@ -1,0 +1,3 @@
+"ip":"HELLO5656AA.aternos.me",
+"port":"43227",
+"name":"Apka_Chamcha"
